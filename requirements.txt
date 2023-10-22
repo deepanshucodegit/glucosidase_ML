@@ -1,0 +1,8 @@
+chembl_webresource_client
+matplotlib==3.7.1
+numpy==1.23.5
+pandas==1.5.3
+pipreqs==0.4.13
+rdkit==2023.03.3
+seaborn==0.12.2
+sklearn==1.2.2
